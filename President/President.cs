@@ -39,9 +39,9 @@ namespace President
             "\nHealthcare Priority is " + healthcarePriority + ".");
         }
 
-        public bool PassLegislation(int e, int d, int h, int bribe)
-        {
-            
-        }
+        // public bool PassLegislation(int e, int d, int h, int bribe)
+        // {
+
+        // }
     }
 }
